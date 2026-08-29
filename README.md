@@ -57,3 +57,12 @@ on GitHub for a demonstration on how to work with the various APIs and our
 Google I/O ‘22
 [Multi-device development session](https://www.youtube.com/watch?v=H6UxTnghkMw)
 for a general overview of the SDK.
+
+
+## Repository provenance
+
+This repository is a preserved/portfolio copy of the original Google Cross device SDK Developer Preview. The README and code are retained for provenance; claims about the SDK should be interpreted against the original upstream documentation and the version represented by this repository. It is not presented as a current Google-supported SDK.
+
+## Verification scope
+
+Local verification should distinguish repository-level build/test results from claims about Google's original SDK behaviour. Changes in this repository must not imply current support, API compatibility, security guarantees or official Google maintenance.
