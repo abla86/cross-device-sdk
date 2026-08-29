@@ -1,5 +1,7 @@
 # Cross device SDK
 
+> **Provenance:** This repository contains Google's Cross device SDK material. It is retained as an upstream/reference repository and is not presented as original ABLA86-authored software. Original attribution and license terms remain applicable.
+
 First announced during the Google I/O ‘22 Multi-device development session, our
 Cross device SDK allows developers to build rich multi-device experiences with a
 simple and intuitive set of APIs. This SDK abstracts away the intricacies
